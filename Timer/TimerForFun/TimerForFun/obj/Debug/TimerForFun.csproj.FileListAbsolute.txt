@@ -1,0 +1,10 @@
+D:\C#_Files\Timer\TimerForFun\TimerForFun\bin\Debug\TimerForFun.exe.config
+D:\C#_Files\Timer\TimerForFun\TimerForFun\bin\Debug\TimerForFun.exe
+D:\C#_Files\Timer\TimerForFun\TimerForFun\bin\Debug\TimerForFun.pdb
+D:\C#_Files\Timer\TimerForFun\TimerForFun\obj\Debug\TimerForFun.csprojAssemblyReference.cache
+D:\C#_Files\Timer\TimerForFun\TimerForFun\obj\Debug\TimerForFun.Form1.resources
+D:\C#_Files\Timer\TimerForFun\TimerForFun\obj\Debug\TimerForFun.Properties.Resources.resources
+D:\C#_Files\Timer\TimerForFun\TimerForFun\obj\Debug\TimerForFun.csproj.GenerateResource.cache
+D:\C#_Files\Timer\TimerForFun\TimerForFun\obj\Debug\TimerForFun.csproj.CoreCompileInputs.cache
+D:\C#_Files\Timer\TimerForFun\TimerForFun\obj\Debug\TimerForFun.exe
+D:\C#_Files\Timer\TimerForFun\TimerForFun\obj\Debug\TimerForFun.pdb
