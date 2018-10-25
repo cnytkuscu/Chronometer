@@ -31,6 +31,7 @@ namespace TimerForFun
         private void timer1_Tick(object sender, EventArgs e)
         {
             lblTime.Text = sw.Elapsed.ToString().Substring(0, 10);
+            lblCurrent.Text = DateTime.Now.ToString().Substring(10, 9);
         }
     }
 }
